@@ -1,0 +1,13 @@
+Method,Cost ratio,Threshold
+Unrepaired LR,5,0.16666666666666666
+Unrepaired LR,10,0.09090909090909091
+Unrepaired LR,20,0.047619047619047616
+Class-Weighted LR,5,0.9998865629044938
+Class-Weighted LR,10,0.9824893078259695
+Class-Weighted LR,20,0.9800611910694054
+Random Undersampling,5,0.46829477931018154
+Random Undersampling,10,0.45698175570169836
+Random Undersampling,20,0.3807562132227583
+Random Oversampling,5,0.9998853699265672
+Random Oversampling,10,0.9827482321165678
+Random Oversampling,20,0.980006551653709

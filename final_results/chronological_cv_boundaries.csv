@@ -1,0 +1,6 @@
+Fold,Training end time,Validation start time,Shared boundary timestamp
+1,39199.0,39200.0,False
+2,56328.0,56330.0,False
+3,73272.0,73272.0,True
+4,96482.0,96482.0,True
+5,128577.0,128578.0,False

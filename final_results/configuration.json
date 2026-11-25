@@ -1,0 +1,36 @@
+{
+    "dataset_id": 1597,
+    "cleaned_observations": 283726,
+    "fraud_cases": 473,
+    "input_features": 29,
+    "random_seeds": [
+        42,
+        123,
+        2026,
+        423,
+        99
+    ],
+    "primary_seed": 42,
+    "inner_cv_seed": 42,
+    "outer_cv_seed": 123,
+    "bootstrap_seed": 42,
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "bootstrap_resamples": 1000,
+    "cost_ratios": [
+        5,
+        10,
+        20
+    ],
+    "C_grid": [
+        0.001,
+        0.01,
+        0.1,
+        1,
+        10,
+        100
+    ],
+    "sampling_ratio": 1.0,
+    "class_weight": "balanced",
+    "reference_strategy": "Threshold-Adjusted Baseline"
+}
