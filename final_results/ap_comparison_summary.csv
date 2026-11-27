@@ -1,0 +1,5 @@
+Method,Reference,Higher AP,Lower AP,Inconclusive
+Unrepaired LR,5,0,0,0
+Class-Weighted LR,0,0,1,4
+Random Undersampling,0,0,2,3
+Random Oversampling,0,0,1,4
